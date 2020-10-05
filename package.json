@@ -1,0 +1,17 @@
+{
+  "name": "authtrail-smartcontracts",
+  "version": "0.0.1",
+  "description": "Smart contracts for Authtrail platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "build": "truffle compile"
+  },
+  "author": "Authtrail",
+  "license": "MIT",
+  "homepage": "https://authtrail.com",
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.6",
+    "truffle": "^5.1.39"
+  }
+}
