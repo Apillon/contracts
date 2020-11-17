@@ -9,3 +9,7 @@ Run `npm test`.
 ## Build
 
 Run `npm run build`.
+
+## Flatten
+
+Run `npm run flatten`.
